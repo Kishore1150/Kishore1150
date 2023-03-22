@@ -56,7 +56,7 @@ Novice
 <br/>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kishore1150&theme=radical&hide_border=false&include_all_commits=false&count_private=false)&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api?username=Kishore1150&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kishore1150&theme=radical&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore1150&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
