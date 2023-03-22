@@ -16,9 +16,7 @@ Novice
 *   🤝  I'm open to collaborating on interesting projects  
   
 <br/>  
-
-## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://gitlab.com/Kishore1150" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
@@ -30,7 +28,7 @@ Novice
 </a>
 <a href="https://codepen.com/kishore_115" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>  
+</a>   
 </div>  
 <br/>  
 
