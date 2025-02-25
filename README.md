@@ -6,12 +6,12 @@
 
 Novice
 -------
-🎓 I'm a 3rd year computer science engineering student at Sri Krishna College of Technology ,Coimbatore.<br> 
+🎓 I'm a Final year computer science engineering student at Sri Krishna College of Technology ,Coimbatore.<br> 
 🤝 I have a strong passion for learning and experimenting with new technologies, and I am always eager to expand my knowledge and skills. <br> 
 💡 I am particularly interested in web development but I am open to exploring new fields and domains as well. <br> 💬 Feel free to take a look at some of my projects on GitHub, and don't hesitate to get in touch if you have any questions or ideas for collaboration! <br> 🔭 I’m currently working on ...My Web Development skills and Full stack projects <br> ⚡ Fun fact: Love to create 2D and 3D animations and Love to play video games🎮
 
 *   🌍  I'm based in India
-*   ✉️  You can contact me at [kk106767@gmail.com](mailto:kk106767@gmail.com)
+*   ✉️  You can contact me at [iamkishorekumarb2003@gmail.com](mailto:iamkishorekumarb2003@gmail.com)
 *   🧠  I'm currently learning Selenium Automation Testing
 *   🤝  I'm open to collaborating on interesting projects  
   
